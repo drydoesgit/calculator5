@@ -1,7 +1,7 @@
-from Addition import Addition
-from Subtraction import Subtraction
-from Multiplication import Multiplication
-from Division import Division
+from Addition import addition
+from Subtraction import subtraction
+from Multiplication import multiplication
+from Division import division
 
 
 class Calculator:
